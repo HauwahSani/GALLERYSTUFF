@@ -9,7 +9,7 @@ background-color:white;
 border-radius:4%;
 }*/
 .whole{
-     margin-left:60px; 
+     margin-left:0px; 
 }
 .me{
     display:flex;
@@ -94,9 +94,9 @@ hr{
     .me{
         margin-left:30px;
     }
-    /* .whole{
+    .whole{
         margin-left:50px;
-    } */
+    }
     .jae{
         display: flex;
         flex-direction: column;
